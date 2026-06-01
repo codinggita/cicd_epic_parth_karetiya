@@ -104,5 +104,19 @@ Once the server is running (locally or deployed), use Postman to import the coll
 * **Monitoring & Alerts:** `/api/v1/monitoring`
 * **YAML Utilities:** `/api/v1/yaml`
 
+* ### 📬 Postman API Collection
+
+Explore and test all API endpoints using the official Postman documentation:
+
+🔗 [View Postman Documentation](https://documenter.getpostman.com/view/50839329/2sBXwntsU4)
+
+The collection includes:
+- Authentication APIs
+- Workflow Management APIs
+- Infrastructure APIs
+- Monitoring & Alert APIs
+- YAML Utility APIs
+- Sample requests & responses
+
 ---
 *Built with ❤️ for DevOps & Automation.*
